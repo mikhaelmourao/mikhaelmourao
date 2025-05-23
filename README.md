@@ -1,5 +1,5 @@
-### Olá, sou Mikhael Mourao!!👋
-### Meus contatos
+### Hi, I`m Mikhael Mourao!!👋
+### Contacts
 <div style="display :inline_block">
 <a href="https://api.whatsapp.com/send/?phone=5585987006568&text&type=phone_number&app_absent=0">
 <img alt="wpp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
@@ -11,7 +11,7 @@
 
 
 
-### Tecnologias que utilizo
+### Technologies
 
 <div style="display :inline_block">
 <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -28,7 +28,7 @@
 <img alt="Vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </div>
 
-### Tecnologias que utilizei na graduação
+### Technologies i`ve used
 <div style="display :inline_block">
 <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
